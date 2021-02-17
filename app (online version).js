@@ -1,3 +1,5 @@
+console.log('carregou');
+
 var _atividades = [{}];
 var _posNegocios = {};
 var _negocios = [{}];
